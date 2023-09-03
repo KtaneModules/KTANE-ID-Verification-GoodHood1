@@ -1,0 +1,10 @@
+{
+  "name": "IDVerification-Editor",
+  "references": [
+    "IDVerification"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ID Verification/ID Verification.unity
+  isLoaded: 1
+  isActive: 1
